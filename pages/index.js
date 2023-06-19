@@ -2,7 +2,7 @@ function Home() {
     return (
         <>
             <h1>
-                Clique aqui!
+                Clique aqui! :D
             </h1>
         </>
     )
